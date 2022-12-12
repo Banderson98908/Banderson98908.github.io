@@ -3,7 +3,7 @@
 <html lang= en US>
 <head>
   <title> Psychology </title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--   <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
 <style>
 body{
   padding: 0px;
